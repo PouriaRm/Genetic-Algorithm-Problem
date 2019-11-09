@@ -12,7 +12,7 @@ Genetic Algorithm is one of the most widely used evolutionary algorithms used to
 
 
 ## How to test it?
-Run Main.java and set any function that you need in your custom scenarios.
+Run Main.java and set any function that you need in your custom scenario.
 We have 18 scenarios. For example, the result of real genetic algorithm by Roulette Wheel selection, Math Crossover and uniform mutation is:
 <br>
 <br>
